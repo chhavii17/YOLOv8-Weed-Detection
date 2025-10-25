@@ -73,7 +73,7 @@ Execute the script from your terminal. It will automatically perform the data se
 
 ```bash
 python train.py
-
+```
 ---
 
 ## License
